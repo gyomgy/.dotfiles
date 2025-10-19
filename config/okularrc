@@ -7,4 +7,6 @@ ShowSidebar=true
 
 [Recent Files]
 File1[$e]=/run/media/gyom/LFA/hyprland_dotfiles/waybar/themes/starter/README.md
+File2[$e]=$HOME/Downloads/Tout-sur-la-chimie-cea-2011.pdf
 Name1[$e]=README.md
+Name2[$e]=Tout-sur-la-chimie-cea-2011.pdf
