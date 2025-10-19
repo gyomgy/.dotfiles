@@ -1,0 +1,11 @@
+# ~/.config/starship.toml
+
+# Remove the default new line
+add_newline = true
+
+# Customize the prompt character
+[character]
+success_symbol = "➜"   # optional, could be just >
+error_symbol = "➜"     # optional, could be just x
+vicmd_symbol = "➜"
+

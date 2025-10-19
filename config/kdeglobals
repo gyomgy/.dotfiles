@@ -1,0 +1,9 @@
+[General]
+widgetStyle=kvantum
+
+[KDE]
+widgetStyle=kvantum
+
+[Icons]
+Theme=breeze-dark
+EOF

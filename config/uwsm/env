@@ -1,0 +1,9 @@
+export QT_QPA_PLATFORM=wayland;xcb
+
+# For Qt5 apps
+export QT_QPA_PLATFORMTHEME=qt5ct
+
+# Force Kvantum style globally (both Qt5 + Qt6)
+
+# For Qt6 apps specificall
+export QT_QPA_PLATFORMTHEME_QT6=qt6ct

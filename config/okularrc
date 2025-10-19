@@ -1,0 +1,10 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=/run/media/gyom/LFA/hyprland_dotfiles/waybar/themes/starter/README.md
+Name1[$e]=README.md
