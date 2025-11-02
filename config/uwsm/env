@@ -1,9 +1,14 @@
-export QT_QPA_PLATFORM=wayland;xcb
+# Set Qt platform
+set -gx QT_QPA_PLATFORM "wayland;xcb"
 
-# For Qt5 apps
-export QT_QPA_PLATFORMTHEME=qt5ct
+# Qt5 theme
+set -gx QT_QPA_PLATFORMTHEME "qt5ct"
 
-# Force Kvantum style globally (both Qt5 + Qt6)
+# Qt6 theme
+set -gx QT_QPA_PLATFORMTHEME_QT6 "qt6ct"
 
-# For Qt6 apps specificall
-export QT_QPA_PLATFORMTHEME_QT6=qt6ct
+# GTK4 theme
+set -gx GTK_THEME "gruvbox-dark-gtk"
+
+# Desktop environment name
+set -gx XDG_CURRENT_DESKTOP "Hyprland"

@@ -8,5 +8,13 @@ ShowSidebar=true
 [Recent Files]
 File1[$e]=/run/media/gyom/LFA/hyprland_dotfiles/waybar/themes/starter/README.md
 File2[$e]=$HOME/Downloads/Tout-sur-la-chimie-cea-2011.pdf
+File3[$e]=/run/media/gyom/data_back/mbp2015/backintime/mpb2015-linux/gyom/1/20251021-000047-834/backup/home/gyom/Documents/output.pdf
+File4[$e]=$HOME/Documents/Administration/famille/livret_famille1.pdf
+File5[$e]=$HOME/Documents/output.pdf
+File6[$e]=$HOME/Documents/Pro/DFG/rentrée2025-2026/DFG-LFA_Lehrplan-Programme_Physique_Enseignement commun ou optionnel_2-1-T.pdf
 Name1[$e]=README.md
 Name2[$e]=Tout-sur-la-chimie-cea-2011.pdf
+Name3[$e]=output.pdf
+Name4[$e]=livret_famille1.pdf
+Name5[$e]=output.pdf
+Name6[$e]=DFG-LFA_Lehrplan-Programme_Physique_Enseignement commun ou optionnel_2-1-T.pdf
