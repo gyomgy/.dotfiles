@@ -1,0 +1,88 @@
+# ~/.XCompose — Guillaume’s Compose key map (Compose = Druck)
+# Usage: Compose + + + letter → Greek letter
+#         Compose + + + Shift + letter → uppercase Greek
+
+include "%L"
+
+# --- Greek lowercase ---
+<Multi_key> <plus> <a> : "α"   U03B1 # alpha
+<Multi_key> <plus> <b> : "β"   U03B2 # beta
+<Multi_key> <plus> <g> : "γ"   U03B3 # gamma
+<Multi_key> <plus> <d> : "δ"   U03B4 # delta
+<Multi_key> <plus> <e> : "ε"   U03B5 # epsilon
+<Multi_key> <plus> <z> : "ζ"   U03B6 # zeta
+<Multi_key> <plus> <h> : "η"   U03B7 # eta
+<Multi_key> <plus> <t> : "θ"   U03B8 # theta
+<Multi_key> <plus> <i> : "ι"   U03B9 # iota
+<Multi_key> <plus> <k> : "κ"   U03BA # kappa
+<Multi_key> <plus> <l> : "λ"   U03BB # lambda
+<Multi_key> <plus> <m> : "μ"   U03BC # mu
+<Multi_key> <plus> <n> : "ν"   U03BD # nu
+<Multi_key> <plus> <x> : "ξ"   U03BE # xi
+<Multi_key> <plus> <o> : "ο"   U03BF # omicron
+<Multi_key> <plus> <p> : "π"   U03C0 # pi
+<Multi_key> <plus> <r> : "ρ"   U03C1 # rho
+<Multi_key> <plus> <s> : "σ"   U03C3 # sigma
+<Multi_key> <plus> <f> : "φ"   U03C6 # phi
+<Multi_key> <plus> <c> : "χ"   U03C7 # chi
+<Multi_key> <plus> <y> : "ψ"   U03C8 # psi
+<Multi_key> <plus> <w> : "ω"   U03C9 # omega
+
+# --- Greek uppercase ---
+<Multi_key> <plus> <A> : "Α"   U0391 # Alpha
+<Multi_key> <plus> <B> : "Β"   U0392 # Beta
+<Multi_key> <plus> <G> : "Γ"   U0393 # Gamma
+<Multi_key> <plus> <D> : "Δ"   U0394 # Delta
+<Multi_key> <plus> <E> : "Ε"   U0395 # Epsilon
+<Multi_key> <plus> <Z> : "Ζ"   U0396 # Zeta
+<Multi_key> <plus> <H> : "Η"   U0397 # Eta
+<Multi_key> <plus> <T> : "Θ"   U0398 # Theta
+<Multi_key> <plus> <I> : "Ι"   U0399 # Iota
+<Multi_key> <plus> <K> : "Κ"   U039A # Kappa
+<Multi_key> <plus> <L> : "Λ"   U039B # Lambda
+<Multi_key> <plus> <M> : "Μ"   U039C # Mu
+<Multi_key> <plus> <N> : "Ν"   U039D # Nu
+<Multi_key> <plus> <X> : "Ξ"   U039E # Xi
+<Multi_key> <plus> <O> : "Ο"   U039F # Omicron
+<Multi_key> <plus> <P> : "Π"   U03A0 # Pi
+<Multi_key> <plus> <R> : "Ρ"   U03A1 # Rho
+<Multi_key> <plus> <S> : "Σ"   U03A3 # Sigma
+<Multi_key> <plus> <F> : "Φ"   U03A6 # Phi
+<Multi_key> <plus> <C> : "Χ"   U03A7 # Chi
+<Multi_key> <plus> <Y> : "Ψ"   U03A8 # Psi
+<Multi_key> <plus> <W> : "Ω"   U03A9 # Omega
+
+# --- Math symbols ---
+<Multi_key> <plus> <minus> : "±"   U00B1 # plus-minus
+<Multi_key> <plus> <e> <q> : "≡"   U2261 # equivalence
+<Multi_key> <plus> <e> <q> : "≡"   U2261 # equivalence
+<Multi_key> <plus> <equal> : "≈"   U2248 # approximately equal
+<Multi_key> <plus> <period> : "≠"   U2260 # not equal
+<Multi_key> <plus> <less> : "≤"   U2264 # less or equal
+<Multi_key> <plus> <greater> : "≥"   U2265 # greater or equal
+<Multi_key> <plus> <i> <n> : "∈"   U2208 # element of
+<Multi_key> <plus> <p> <r> : "∝"   U221D # proportional to
+<Multi_key> <s> <q> : "√"   U221A # square root
+<Multi_key> <i> <n> <t> : "∫" U222B # integral
+<Multi_key> <d> <e> <l> : "∇" U2207 # nabla
+
+# --- Arrows ---
+<Multi_key> <plus> <l> : "←"   U2190
+<Multi_key> <plus> <r> : "→"   U2192
+<Multi_key> <plus> <u> : "↑"   U2191
+<Multi_key> <plus> <d> : "↓"   U2193
+<Multi_key> <plus> <<> : "↔"   U2194
+
+# --- Miscellaneous ---
+<Multi_key> <plus> <m> <u> : "µ"   U00B5 # micro
+<Multi_key> <plus> <d> <e> : "°"   U00B0 # degree
+<Multi_key> <plus> <t> <m> : "™"   U2122 # trademark
+<Multi_key> <plus> <c> <o> : "©"   U00A9 # copyright
+<Multi_key> <plus> <r> <g> : "®"   U00AE # registered
+<Multi_key> <plus> <s> <s> : "ß"   U00DF # Eszett
+
+# --- Quotation marks ---
+<Multi_key> <plus> <'> <'> : "”"   U201D # right double quote
+<Multi_key> <plus> <"> <"> : "“"   U201C # left double quote
+<Multi_key> <plus> <'> <,> : "‚"   U201A # single low quote
+<Multi_key> <plus> <,> <'> : "‘"   U2018 # single high quote

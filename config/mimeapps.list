@@ -5,6 +5,7 @@ text/x-csrc=kate-4.desktop;
 application/x-shellscript=kitty-open.desktop;kate-4.desktop;
 text/css=kate-4.desktop;
 application/x-zerosize=kate-3.desktop;
+image/png=okularApplication_kimgio.desktop;
 
 [Default Applications]
 application/pdf=okularApplication_pdf.desktop
@@ -12,3 +13,4 @@ image/jpeg=feh.desktop
 image/png=feh.desktop
 text/plain=kate-4.desktop;
 application/x-zerosize=kate-3.desktop
+image/tiff=digikam.desktop

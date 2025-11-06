@@ -1,14 +1,15 @@
-# Set Qt platform
-set -gx QT_QPA_PLATFORM "wayland;xcb"
+# Set Qt platform (Note: the original line had incorrect syntax, corrected below)
+export QT_QPA_PLATFORM="wayland;xcb"
 
 # Qt5 theme
-set -gx QT_QPA_PLATFORMTHEME "qt5ct"
+export QT_QPA_PLATFORMTHEME="qt5ct"
 
 # Qt6 theme
-set -gx QT_QPA_PLATFORMTHEME_QT6 "qt6ct"
+export QT_QPA_PLATFORMTHEME_QT6="qt6ct"
 
 # GTK4 theme
-set -gx GTK_THEME "gruvbox-dark-gtk"
+export GTK_THEME="gruvbox-dark-gtk"
 
 # Desktop environment name
-set -gx XDG_CURRENT_DESKTOP "Hyprland"
+export XDG_CURRENT_DESKTOP="Hyprland"
+

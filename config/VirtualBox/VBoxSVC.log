@@ -1,0 +1,43 @@
+00:00:00.000419 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.000421 main     Log opened 2025-11-04T20:09:50.759020000Z
+00:00:00.000422 main     Build Type: release
+00:00:00.000424 main     OS Product: Linux
+00:00:00.000425 main     OS Release: 6.17.6-arch1-1
+00:00:00.000426 main     OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 29 Oct 2025 22:23:47 +0000
+00:00:00.000453 main     DMI Product Name: 20XLS0NM00
+00:00:00.000467 main     DMI Product Version: ThinkPad T14 Gen 2a
+00:00:00.000473 main     Firmware type: UEFI
+00:00:00.000831 main     Secure Boot: Disabled
+00:00:00.000882 main     Host RAM: 14798MB (14.4GB) total, 8394MB (8.1GB) available
+00:00:00.000887 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000887 main     Process ID: 59538
+00:00:00.000888 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.008706 main     IPC socket path: /tmp/.vbox-gyom-ipc/ipcd
+00:00:00.014410 DCon01   VirtualBox: object creation starts
+00:00:00.014542 DCon01   Home directory: '/home/gyom/.config/VirtualBox'
+00:00:00.014749 DCon01   Loading settings file "/home/gyom/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.324646 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.326030 DCon01   HostDnsMonitor: initializing
+00:00:00.326418 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.326451 DCon01   NAT: resolv.conf: nameserver 2a02:8108:280d:d500:dad7:75ff:fe68:b8fc
+00:00:00.326512 DCon01   HostDnsMonitor: updating information
+00:00:00.326542 DCon01   HostDnsMonitor: old information
+00:00:00.326551 DCon01     no server entries
+00:00:00.326560 DCon01     no domain set
+00:00:00.326568 DCon01     no search string entries
+00:00:00.326576 DCon01   HostDnsMonitor: new information
+00:00:00.326584 DCon01     server 1: 192.168.0.1
+00:00:00.326593 DCon01     server 2: 2a02:8108:280d:d500:dad7:75ff:fe68:b8fc
+00:00:00.326601 DCon01     domain: box
+00:00:00.326609 DCon01     search string 1: box
+00:00:00.329222 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.329490 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.331057 DCon01   VirtualBox: object created
+00:00:01.567711 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.883305 DCon03   Saving settings file "/home/gyom/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.887340 DCon03   Finished saving settings file "/home/gyom/.config/VirtualBox/VirtualBox.xml"
+02:15:25.419735 main     VirtualBox: object deletion starts
+02:15:25.420277 main     HostDnsMonitor: shutting down ...
+02:15:25.421003 main     HostDnsMonitor: shut down
+02:15:25.432154 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:15:25.432292 main     VirtualBox: object deleted
