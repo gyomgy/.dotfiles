@@ -1,0 +1,71 @@
+Systemd
+Wayland
+Hyprland
+uswm #run hyprland apps as systemd modules
+xdg-portal #desktop backend
+xdg-hyprland #screen sharing
+xdg-utils #open files with defualt app
+dbus-broker (interapp-comm)
+
+#theming
+qt5ct
+qt6ct
+nwg-look
+kvantum
+
+thunar
+yazi (cli explorer)
+firefox
+Kate (gui textedit)
+micro (cli textedit)
+nano 
+kitty
+fish
+starship (terminal add-on)
+eza (replace ls)
+
+ly (login)
+hyprpaper
+waybar
+hypridle
+hyprlock
+hyprpicker
+hyprpolkitagent (popup passwd)
+elephant (index for walker)
+walker (menu)
+mako (notifications)
+
+pavucontrol (sound)
+brightnessctl (backlight)
+playerctl (play-pause)
+ncdu (Disk usage)
+bat (battery check)
+smartmontools
+ethtool
+
+ufw (firewall)
+uwsm (universal waland esssion manager)
+tlp (power management)
+evtest (check input)
+networkmanager
+wpa_supplicant
+bluez
+
+#Mount-automount
+udisks2
+gvfs
+ntfs-3g
+exfatprogs
+e2fsprogs
+
+#iOS-Android mount/use
+usbmuxd
+libimobiledevice 
+ifuse 
+gvfs-afc 
+gvfs-mtp
+
+#pdf-image-doc...
+feh
+okular
+pdfarranger

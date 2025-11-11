@@ -1,33 +1,30 @@
 [Desktop Entry]
-FullScreen=true
-shouldShowMenuBarComingFromFullScreen=false
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=false
 
 [General]
 LockSidebar=true
 ShowSidebar=true
 
-[MainWindow]
-MenuBar=Disabled
-
 [Recent Files]
-File1[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/Teilnahmebescheinigung G.P. 25.pdf
-File10[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/2-Stoffgemisch/D8-Chimie-November 19 2024.pdf
-File2[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2525A2904.pdf
-File3[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2525A2905.pdf
-File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/Brechung_übungen.pdf
-File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/1-Rein-Stoffe/1-23_Rein Stoffe/1.23-Rein-Stoffe.pdf
-File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/1-Rein-Stoffe/D8-Chemie-September 10 2024.pdf
-File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/1-Rein-Stoffe/D8-Chemie-September 17 2024.pdf
-File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/1-Rein-Stoffe/D8-chimie-September 24 2024.pdf
-File9[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Chemie-D8/1-Rein-Stoffe/Test-Dichte.pdf
-Name1[$e]=Teilnahmebescheinigung G.P. 25.pdf
-Name10[$e]=D8-Chimie-November 19 2024.pdf
-Name2[$e]=Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2525A2904.pdf
-Name3[$e]=Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2525A2905.pdf
-Name4[$e]=Brechung_übungen.pdf
-Name5[$e]=1.23-Rein-Stoffe.pdf
-Name6[$e]=D8-Chemie-September 10 2024.pdf
-Name7[$e]=D8-Chemie-September 17 2024.pdf
-Name8[$e]=D8-chimie-September 24 2024.pdf
-Name9[$e]=Test-Dichte.pdf
+File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KAp4_test-latome.pdf
+File10[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/DFG-LFA_Lehrplan-Programme_Chimie_Enseignement Commun_2-1-T.pdf
+File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KAp4_test-latome.png
+File3[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/Test-Atomes.pdf
+File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/C02_La_classification_periodique_des_elements/A2/3e_C_C02_A2_eleve.pdf
+File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Sonne-Erde-Mond_SUS.pdf
+File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Sonne-Erde-Mond.pdf
+File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D8/Klassenarbeite/8-Physik_Klassenarbeit-1.pdf
+File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/EM-spektrum.pdf
+File9[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Entfernungsmassstabe.pdf
+Name1[$e]=KAp4_test-latome.pdf
+Name10[$e]=DFG-LFA_Lehrplan-Programme_Chimie_Enseignement Commun_2-1-T.pdf
+Name2[$e]=KAp4_test-latome.png
+Name3[$e]=Test-Atomes.pdf
+Name4[$e]=3e_C_C02_A2_eleve.pdf
+Name5[$e]=Sonne-Erde-Mond_SUS.pdf
+Name6[$e]=Sonne-Erde-Mond.pdf
+Name7[$e]=8-Physik_Klassenarbeit-1.pdf
+Name8[$e]=EM-spektrum.pdf
+Name9[$e]=Entfernungsmassstabe.pdf

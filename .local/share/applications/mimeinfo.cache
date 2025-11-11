@@ -1,0 +1,5 @@
+[MIME Cache]
+chemical/x-cml=avogadro2.desktop;
+chemical/x-xyz=avogadro2.desktop;
+text/plain=kate-2.desktop;kate-3.desktop;kate-4.desktop;kate.desktop;micro-2.desktop;
+x-scheme-handler/obsidian=obsidian.desktop;

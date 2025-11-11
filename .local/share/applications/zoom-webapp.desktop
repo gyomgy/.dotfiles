@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Zoom Web
+Exec=firefox --no-remote -P Zoom -new-window https://zoom.us/signin
+Icon=zoom
+Type=Application
+Categories=Network;Office;
+StartupWMClass=Firefox

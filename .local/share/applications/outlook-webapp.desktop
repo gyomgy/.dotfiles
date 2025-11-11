@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Outlook
+Exec=firefox --no-remote -P Microsoft -new-window https://outlook.office.com
+Icon=outlook
+Type=Application
+Categories=Network;Office;
+StartupWMClass=Firefox

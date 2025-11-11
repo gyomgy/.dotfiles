@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=micro
+MimeType=text/plain;
+Name=micro
+NoDisplay=true
+Type=Application

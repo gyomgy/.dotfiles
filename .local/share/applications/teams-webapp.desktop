@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Teams
+Exec=firefox --no-remote -P Microsoft -new-window https://teams.microsoft.com
+Icon=teams
+Type=Application
+Categories=Network;Office;
+StartupWMClass=Firefox

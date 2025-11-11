@@ -19,7 +19,8 @@ Text Font Features=
 Word Wrap Marker=false
 
 [MainWindow]
-1280x720 screen: Window-Maximized=true
+1280x720 screen: Height=720
+1280x720 screen: Width=1280
 
 [filetree]
 editShade=183,220,246

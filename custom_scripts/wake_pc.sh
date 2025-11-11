@@ -6,4 +6,5 @@ WOL_MAC="74:56:3c:6a:fb:9e"
 wakeonlan $WOL_MAC
 
 # Wait a few seconds for the PC to wake up
-sleep 10
+sleep 2
+echo "sent magic packet to lacave"

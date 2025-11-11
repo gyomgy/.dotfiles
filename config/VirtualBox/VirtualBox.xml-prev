@@ -10,11 +10,19 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=0bbb75a6-98c1-4fac-8975-41a0bc13a386"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="9,45,1902,1026"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="760,240,400,600"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/usr/share/virtualbox"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/usr/share/virtualbox/VBoxGuestAdditions.iso"/>
       <ExtraDataItem name="GUI/Settings/ExpertMode" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Home,Details"/>
+      <ExtraDataItem name="GUI/VISOCreator/DialogGeometry" value="959,539,463,600"/>
     </ExtraData>
-    <MachineRegistry/>
+    <MachineRegistry>
+      <MachineEntry uuid="{41d69f3d-1fe5-4a7a-b0ac-0ac9f37dc8e4}" src="/home/gyom/VirtualBox_VMs/win7-opcom/win7-opcom.vbox"/>
+      <MachineEntry uuid="{0bbb75a6-98c1-4fac-8975-41a0bc13a386}" src="/home/gyom/VirtualBox_VMs/win10/win10-1.15-linux.vbox"/>
+    </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
