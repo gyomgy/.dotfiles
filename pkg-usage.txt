@@ -6,6 +6,7 @@ xdg-portal #desktop backend
 xdg-hyprland #screen sharing
 xdg-utils #open files with defualt app
 dbus-broker (interapp-comm)
+fwupd (firmware updater daemon)
 
 #theming
 qt5ct
@@ -36,6 +37,8 @@ walker (menu)
 mako (notifications)
 
 pavucontrol (sound)
+alsa-utils (sound)
+cpupower
 brightnessctl (backlight)
 playerctl (play-pause)
 ncdu (Disk usage)

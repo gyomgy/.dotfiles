@@ -1,30 +1,33 @@
 [Desktop Entry]
 FullScreen=false
-shouldShowMenuBarComingFromFullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
 [General]
 LockSidebar=true
 ShowSidebar=true
 
+[MainWindow]
+MenuBar=Disabled
+
 [Recent Files]
-File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KAp4_test-latome.pdf
-File10[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/DFG-LFA_Lehrplan-Programme_Chimie_Enseignement Commun_2-1-T.pdf
-File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KAp4_test-latome.png
-File3[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/Test-Atomes.pdf
-File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/C02_La_classification_periodique_des_elements/A2/3e_C_C02_A2_eleve.pdf
-File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Sonne-Erde-Mond_SUS.pdf
-File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Sonne-Erde-Mond.pdf
-File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D8/Klassenarbeite/8-Physik_Klassenarbeit-1.pdf
-File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/EM-spektrum.pdf
-File9[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/7.Physik/2_Astronomie/Entfernungsmassstabe.pdf
-Name1[$e]=KAp4_test-latome.pdf
-Name10[$e]=DFG-LFA_Lehrplan-Programme_Chimie_Enseignement Commun_2-1-T.pdf
-Name2[$e]=KAp4_test-latome.png
-Name3[$e]=Test-Atomes.pdf
-Name4[$e]=3e_C_C02_A2_eleve.pdf
-Name5[$e]=Sonne-Erde-Mond_SUS.pdf
-Name6[$e]=Sonne-Erde-Mond.pdf
-Name7[$e]=8-Physik_Klassenarbeit-1.pdf
-Name8[$e]=EM-spektrum.pdf
-Name9[$e]=Entfernungsmassstabe.pdf
+File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KA_1.Sem/images/3e_C_2425_KA_Chapitres_01_&_02_Sujet_A.pdf
+File10[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2023-2024/D8_Chimie/DS1/Klassenarbeit-chem-Nov.pdf
+File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KA_1.Sem/images/3e_C_2425_KA_Chapitres_01_&_02_Sujet_B.pdf
+File3[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/2.Entités-stables/TP-ions2025.pdf
+File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/List_8K_Physik.pdf
+File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/Notenumrechnungfinal.pdf
+File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/2.Entités-stables/Exo_ions.pdf
+File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/2.Entités-stables/TP_ions.pdf
+File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KA_1.Sem/images/3e_C_2425_KA_Chapitres_01_&_02_Sujet_B_Correction.pdf
+File9[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/September 08 2025_Mix2-Chimie.pdf
+Name1[$e]=3e_C_2425_KA_Chapitres_01_&_02_Sujet_A.pdf
+Name10[$e]=Klassenarbeit-chem-Nov.pdf
+Name2[$e]=3e_C_2425_KA_Chapitres_01_&_02_Sujet_B.pdf
+Name3[$e]=TP-ions2025.pdf
+Name4[$e]=List_8K_Physik.pdf
+Name5[$e]=Notenumrechnungfinal.pdf
+Name6[$e]=Exo_ions.pdf
+Name7[$e]=TP_ions.pdf
+Name8[$e]=3e_C_2425_KA_Chapitres_01_&_02_Sujet_B_Correction.pdf
+Name9[$e]=September 08 2025_Mix2-Chimie.pdf

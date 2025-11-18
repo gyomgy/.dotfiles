@@ -1,3 +1,4 @@
 {
-    "colorscheme": "simple"
+    "colorscheme": "atom-dark",
+    "clipboard": "external"
 }

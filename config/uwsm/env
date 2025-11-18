@@ -13,3 +13,6 @@ export GTK_THEME="gruvbox-dark-gtk"
 # Desktop environment name
 export XDG_CURRENT_DESKTOP="Hyprland"
 
+#libreoffice gtk3 backend
+#export SAL_USE_VCLPLUGIN=gtk3
+

@@ -1,4 +1,5 @@
 acpi
+alsa-utils
 amd-ucode
 arc-gtk-theme
 arch-wiki-docs
@@ -15,6 +16,7 @@ bat
 blueman
 bluez
 bluez-utils
+brave-bin
 breeze
 breeze-gtk
 brightnessctl
@@ -23,6 +25,7 @@ btrfs-progs
 cantarell-fonts
 capitaine-cursors
 catppuccin-gtk-theme-mocha
+cpupower
 dialog
 digikam
 dkms
@@ -47,6 +50,7 @@ feh
 firefox
 fish
 freecad
+fwupd
 gimp
 git
 gnome-themes-extra
@@ -144,6 +148,7 @@ usbmuxd
 uwsm
 virtualbox
 virtualbox-guest-iso
+vlc
 wakeonlan
 walker
 waybar
