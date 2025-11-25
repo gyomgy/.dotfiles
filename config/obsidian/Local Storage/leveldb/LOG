@@ -1,3 +1,3 @@
-2025/11/09-00:46:41.174 25165 Reusing MANIFEST /home/gyom/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2025/11/09-00:46:41.181 25165 Recovering log #3
-2025/11/09-00:46:41.181 25165 Reusing old log /home/gyom/.config/obsidian/Local Storage/leveldb/000003.log 
+2025/11/22-02:08:10.631 23f8 Reusing MANIFEST /home/gyom/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2025/11/22-02:08:10.636 23f8 Recovering log #3
+2025/11/22-02:08:10.636 23f8 Reusing old log /home/gyom/.config/obsidian/Local Storage/leveldb/000003.log 
