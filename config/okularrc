@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=false
+FullScreen=true
 shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
@@ -11,23 +11,23 @@ ShowSidebar=true
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/List_8K_Physik.pdf
-File10[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D8/2. Mechanik/D8-Physik-November 21 2024.pdf
-File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/Notenumrechnungfinal.pdf
-File3[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/2.Entités-stables/Exo_ions.pdf
-File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/2.Entités-stables/TP_ions.pdf
-File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/KA_1.Sem/images/3e_C_2425_KA_Chapitres_01_&_02_Sujet_B_Correction.pdf
-File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/September 08 2025_Mix2-Chimie.pdf
-File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2023-2024/D8_Chimie/DS1/Klassenarbeit-chem-Nov.pdf
-File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Chemie/Klassenarbeit-chem-1.pdf
-File9[$e]=/run/media/gyom/LFA/2025110712391811.pdf
-Name1[$e]=List_8K_Physik.pdf
-Name10[$e]=D8-Physik-November 21 2024.pdf
-Name2[$e]=Notenumrechnungfinal.pdf
-Name3[$e]=Exo_ions.pdf
-Name4[$e]=TP_ions.pdf
-Name5[$e]=3e_C_2425_KA_Chapitres_01_&_02_Sujet_B_Correction.pdf
-Name6[$e]=September 08 2025_Mix2-Chimie.pdf
-Name7[$e]=Klassenarbeit-chem-Nov.pdf
-Name8[$e]=Klassenarbeit-chem-1.pdf
-Name9[$e]=2025110712391811.pdf
+File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D8/2. Mechanik/D8-Physik-January 23 2025.pdf
+File10[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2025/02-2025.pdf
+File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9.Physik/List_9K.pdf
+File3[$e]=$HOME/Downloads/Tarifwechsel.TW1.20251106.PDF
+File4[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2025/Frau_Reuting.pdf
+File5[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2025/01-2025.pdf
+File6[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2024/001-2024.pdf
+File7[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2024/002-2024.pdf
+File8[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2024/003-2024.pdf
+File9[$e]=$HOME/Documents/Pro/Entreprises/Haushaltdienstleistung/2024/004-2024.pdf
+Name1[$e]=D8-Physik-January 23 2025.pdf
+Name10[$e]=02-2025.pdf
+Name2[$e]=List_9K.pdf
+Name3[$e]=Tarifwechsel.TW1.20251106.PDF
+Name4[$e]=Frau_Reuting.pdf
+Name5[$e]=01-2025.pdf
+Name6[$e]=001-2024.pdf
+Name7[$e]=002-2024.pdf
+Name8[$e]=003-2024.pdf
+Name9[$e]=004-2024.pdf
