@@ -7,4 +7,4 @@ wakeonlan $WOL_MAC
 
 # Wait a few seconds for the PC to wake up
 sleep 2
-echo "sent magic packet to lacave"
+echo "Eveil de la cave"
