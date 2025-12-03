@@ -65,12 +65,13 @@ include "%L"
 <Multi_key> <s> <q> : "√"   U221A # square root
 <Multi_key> <i> <n> <t> : "∫" U222B # integral
 <Multi_key> <d> <e> <l> : "∇" U2207 # nabla
+<Multi_key> <l> <l> : "ℓ" U2113 # script l
 
 # --- Arrows ---
-<Multi_key> <plus> <l> : "←"   U2190
-<Multi_key> <plus> <r> : "→"   U2192
-<Multi_key> <plus> <u> : "↑"   U2191
-<Multi_key> <plus> <d> : "↓"   U2193
+<Multi_key> <plus> <l> <l> : "←"   U2190
+<Multi_key> <plus> <r> <r> : "→"   U2192
+<Multi_key> <plus> <u> <u> : "↑"   U2191
+<Multi_key> <plus> <d> <d> : "↓"   U2193
 <Multi_key> <plus> <<> : "↔"   U2194
 
 # --- Miscellaneous ---
