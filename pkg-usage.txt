@@ -14,7 +14,7 @@ qt6ct
 nwg-look
 kvantum
 
-thunar
+thunar (volman #automount)
 yazi (cli explorer)
 firefox
 Kate (gui textedit)
@@ -56,8 +56,12 @@ bluez
 
 #Mount-automount
 udisks2
-gvfs
+gvfs (and related)
+gvfs-afc 
+gvfs-mtp
+gvfs-smb
 ntfs-3g
+btrfsprogs (at install)
 exfatprogs
 e2fsprogs
 
@@ -65,8 +69,7 @@ e2fsprogs
 usbmuxd
 libimobiledevice 
 ifuse 
-gvfs-afc 
-gvfs-mtp
+
 
 #pdf-image-doc...
 feh

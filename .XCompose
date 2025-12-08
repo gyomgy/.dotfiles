@@ -72,7 +72,6 @@ include "%L"
 <Multi_key> <plus> <r> <r> : "→"   U2192
 <Multi_key> <plus> <u> <u> : "↑"   U2191
 <Multi_key> <plus> <d> <d> : "↓"   U2193
-<Multi_key> <plus> <<> : "↔"   U2194
 
 # --- Miscellaneous ---
 <Multi_key> <plus> <m> <u> : "µ"   U00B5 # micro
@@ -82,8 +81,3 @@ include "%L"
 <Multi_key> <plus> <r> <g> : "®"   U00AE # registered
 <Multi_key> <plus> <s> <s> : "ß"   U00DF # Eszett
 
-# --- Quotation marks ---
-<Multi_key> <plus> <'> <'> : "”"   U201D # right double quote
-<Multi_key> <plus> <"> <"> : "“"   U201C # left double quote
-<Multi_key> <plus> <'> <,> : "‚"   U201A # single low quote
-<Multi_key> <plus> <,> <'> : "‘"   U2018 # single high quote

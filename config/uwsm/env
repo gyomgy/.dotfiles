@@ -13,6 +13,10 @@ export QT_QPA_PLATFORMTHEME_QT6="qt6ct"
 # Desktop environment name
 export XDG_CURRENT_DESKTOP="Hyprland"
 
-#libreoffice gtk3 backend
+#libreoffice gtk3 backend (not needed)
 #export SAL_USE_VCLPLUGIN=gtk3
 
+# fcitx5 input method (japanese character)
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
