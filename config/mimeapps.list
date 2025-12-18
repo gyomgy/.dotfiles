@@ -6,7 +6,7 @@ application/x-shellscript=kate-4.desktop;kitty-open.desktop;
 text/css=kate-4.desktop;
 application/x-zerosize=kate-3.desktop;
 image/png=okularApplication_kimgio.desktop;
-application/pdf=com.github.jeromerobert.pdfarranger.desktop;gimp.desktop;
+application/pdf=com.github.jeromerobert.pdfarranger.desktop;libreoffice-draw.desktop;gimp.desktop;
 audio/mp4=mpv.desktop;vlc.desktop;
 
 [Default Applications]

@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=zeus
+Icon=/home/gyom/.local/share/icons/zeus.jpg
+Exec=/home/gyom/bin/zeus-automount.sh
+Categories=Game
+TryExec=lutris

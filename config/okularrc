@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=false
+FullScreen=true
 shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=false
 
@@ -11,23 +11,23 @@ ShowSidebar=true
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Chemie/2-Reinstoffe/1.23-Rein-Stoffe.pdf
-File10[$e]=$HOME/Documents/Pro/DFG/N_Mathematisch-naturwissenschaftliche_Formelsammlung.pdf
-File2[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D9/Thema-2_Mechanik/Activität_Galilei.pdf
-File3[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2024-2025/Physik-D9/Thema-2_Mechanik/D9-Physik-November 25 2024.pdf
-File4[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/9-3eme_Chemie/C02_La_classification_periodique_des_elements/Resume/3e_C_C02_Resume.pdf
-File5[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/Programme_PC/lycee_V1/DFG-LFA_Lehrplan-Programme_Physique_Enseignement commun ou optionnel_2-1-T.pdf
-File6[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/Programme_PC/lycee_V2/20251129-Programme commun.pdf
-File7[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/Devoir-test/2nde-chimie_Devoir-sem1.2.pdf
-File8[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/10-2nd_Chimie/Devoir-test/2nde-chimie_Devoir-sem1_korrekt.pdf
-File9[$e]=$HOME/Documents/Pro/DFG/Cours_GP/2025-2026/8.Physik/Mechanik_2.pdf
-Name1[$e]=1.23-Rein-Stoffe.pdf
-Name10[$e]=N_Mathematisch-naturwissenschaftliche_Formelsammlung.pdf
-Name2[$e]=Activität_Galilei.pdf
-Name3[$e]=D9-Physik-November 25 2024.pdf
-Name4[$e]=3e_C_C02_Resume.pdf
-Name5[$e]=DFG-LFA_Lehrplan-Programme_Physique_Enseignement commun ou optionnel_2-1-T.pdf
-Name6[$e]=20251129-Programme commun.pdf
-Name7[$e]=2nde-chimie_Devoir-sem1.2.pdf
-Name8[$e]=2nde-chimie_Devoir-sem1_korrekt.pdf
-Name9[$e]=Mechanik_2.pdf
+File1[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20251006_121951_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0127.pdf
+File10[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20240905_175115_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2425A0121.pdf
+File2[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250915_181730_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P1401.pdf
+File3[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250714_121750_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P0301.pdf
+File4[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250624_122430_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0120.pdf
+File5[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250606_120747_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2532P0802.pdf
+File6[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250602_123222_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0117.pdf
+File7[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250512_104730_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513C1402.pdf
+File8[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250422_123757_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513C1301.pdf
+File9[$e]=$HOME/Documents/Pro/DFG/réunion-programme-etc_old/rentrée2024-2025/Seiteneinstieg/teilnehmer-bescheinigung/in-folio/56443_20250409_145344_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P0801.pdf
+Name1[$e]=56443_20251006_121951_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0127.pdf
+Name10[$e]=56443_20240905_175115_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2425A0121.pdf
+Name2[$e]=56443_20250915_181730_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P1401.pdf
+Name3[$e]=56443_20250714_121750_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P0301.pdf
+Name4[$e]=56443_20250624_122430_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0120.pdf
+Name5[$e]=56443_20250606_120747_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2532P0802.pdf
+Name6[$e]=56443_20250602_123222_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513A0117.pdf
+Name7[$e]=56443_20250512_104730_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513C1402.pdf
+Name8[$e]=56443_20250422_123757_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513C1301.pdf
+Name9[$e]=56443_20250409_145344_Teilnahmebestaetigung_Veranstaltung_Guillaume_Povie_2513P0801.pdf
