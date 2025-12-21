@@ -24,6 +24,11 @@ kitty
 fish
 starship (terminal add-on)
 eza (replace ls)
+lsd
+bat
+fastfetch
+miniconda3
+	psi4 (Q-chem)
 
 ly (login)
 hyprpaper
@@ -42,7 +47,7 @@ cpupower
 brightnessctl (backlight)
 playerctl (play-pause)
 ncdu (Disk usage)
-bat (battery check)
+gdu (Disk usage)
 smartmontools
 ethtool
 
@@ -69,9 +74,18 @@ e2fsprogs
 usbmuxd
 libimobiledevice 
 ifuse 
+cdemu
 
+#various commands
 
 #pdf-image-doc...
 feh
 okular
 pdfarranger
+libreoffice
+hunspell
+libmythes + mythes
+
+Lutris+wine
+steam
+
