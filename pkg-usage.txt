@@ -52,8 +52,8 @@ smartmontools
 ethtool
 
 ufw (firewall)
-uwsm (universal waland esssion manager)
 tlp (power management)
+hwinfo (hardware)
 evtest (check input)
 networkmanager
 wpa_supplicant
@@ -86,6 +86,13 @@ libreoffice
 hunspell
 libmythes + mythes
 
+#videos
+blender
+kdenlive
+shotcut
+
+#games
 Lutris+wine
 steam
+
 

@@ -14,6 +14,7 @@ base
 base-devel
 bat
 bc
+blender
 blueman
 bluez
 bluez-utils
@@ -68,6 +69,7 @@ gamemode
 gdu
 gimp
 git
+git-filter-repo
 gnome-themes-extra
 gparted
 gphoto2
@@ -86,6 +88,7 @@ gvfs-afc
 gvfs-mtp
 gvfs-smb
 heroic-gogdl
+hfsprogs
 hunspell-de
 hunspell-fr
 hypridle
@@ -98,6 +101,7 @@ hyprsunset
 ifuse
 inotify-tools
 kate
+kdenlive
 keepassxc
 kitty
 kitty-gruvbox-theme-git
@@ -135,6 +139,8 @@ networkmanager
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+npm
+npm-check-updates
 ntfs-3g
 nwg-look
 obsidian
@@ -160,6 +166,7 @@ qt6ct
 relax-and-recover-git
 rsync
 rust
+shotcut
 slurp
 smartmontools
 starship
